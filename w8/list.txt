@@ -1,0 +1,10 @@
+Ebook 5378 29.5
+Bluetooth 9836 9.3
+Drill 453 77.0
+Laptop 7938 99.4
+Charger 715 81.4
+Music 927 74.2
+MoonKnight 725 84.6
+Travel 615 9.4
+Train 9385 8.3
+Tired 7456 72.4
