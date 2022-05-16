@@ -1,5 +1,3 @@
-#include "Simple_window.h"
-#include "Graph.h"
 #include "std_lib_facilities.h"
 
 
